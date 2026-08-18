@@ -2,6 +2,12 @@
 
 A bilingual, globe-first school exploration MVP for game design, game art, game development, and interactive/digital media. Serious-games programmes are included under the broader Game Design direction.
 
+## Live website
+
+**[Open the interactive school atlas](https://nara-game-school-atlas.vercel.app)**
+
+**[打开全球游戏设计选校地图](https://nara-game-school-atlas.vercel.app)**
+
 ## Architecture
 
 - **Data layer** — typed school and country records in `src/data/`; bilingual display names and official tuition sources are maintained in `src/data/schoolMeta.ts`.

@@ -1,0 +1,27 @@
+# Dependencies and generated builds
+node_modules/
+dist/
+
+# Local Vercel metadata and credentials
+.vercel/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local work files and generated deliverables
+work/
+outputs/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+pnpm-debug.log*
+npm-debug.log*
+
